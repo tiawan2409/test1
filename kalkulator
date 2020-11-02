@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// ini program kalkulator tiawan@pei.ac.id
 main() {
  char pilih;
  float bil1, bil2, hasil;
